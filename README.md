@@ -1,36 +1,100 @@
-<!-- Mide69 / README.md -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:1a1a2e&height=230&section=header&text=Olamide%20Kosile&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Senior%20Cloud%20Infrastructure%20%26%20DevOps%20Engineer&descAlignY=60&descSize=22&animation=fadeIn" width="100%" />
+</div>
 
-# About Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=680&lines=AWS+Community+Builder+%7C+5%C3%97+AWS+Certified;Senior+Infrastructure+Engineer+%40+Scottish+Government;Platform+Engineering+%7C+DevSecOps+%7C+GitOps;Building+Secure%2C+Scalable+%26+Observable+Cloud+Systems" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mide69&style=flat-square&color=FF9900&label=Profile+Views" alt="Profile Views" />
+  &nbsp;
+  <a href="https://linkedin.com/in/olamide-kosile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Mide69">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS_Community_Builder-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Glasgow%2C_Scotland-003078?style=flat-square" />
+</div>
+
+---
+
+## About Me
 
 Senior Cloud Infrastructure & DevOps Engineer with 6+ years designing, securing, and operating production AWS environments at scale. Currently contracted to the **Scottish Government** as Senior Infrastructure Engineer (Cloud), delivering cloud transformation aligned to NCSC guidance and the AWS Well-Architected Framework.
 
 **AWS Community Builder** and **5× AWS Certified**, with additional credentials spanning cybersecurity (ISC²), Kubernetes (KCNA), and service management (ITIL). I work across the full infrastructure lifecycle — architecture design, IaC provisioning, security hardening, CI/CD automation, container orchestration, observability, and FinOps — holding 95%+ IaC coverage across managed platforms.
 
-Recent outcomes include a **~40% reduction in MTTR** through observability-driven incident response, Security Hub posture improvement from **62% → 91%**, **~25–30% AWS cost savings** via Reserved Instances and rightsizing, **60% deployment efficiency gains** from CI/CD optimisation, and delivery of a **500+ endpoint zero-trust programme** for Scottish Government.
-
 I'm especially interested in platform engineering and DevSecOps — building the internal tooling and guardrails that let product teams ship faster with confidence.
 
----
+<br/>
 
-## Portfolio & Socials
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/olamide-kosile)
-[![GitHub](https://img.shields.io/badge/MIDE69-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mide69)
+| Metric | Outcome |
+|:---|:---|
+| ⚡ **~40% MTTR Reduction** | Observability-driven incident response across EKS and EC2 fleets |
+| 🛡️ **62% → 91% Security Hub** | Posture improvement across multi-account AWS organisation |
+| 💰 **~25–30% Cost Savings** | Reserved Instances, Savings Plans & rightsizing programme |
+| 🚀 **60% Deployment Efficiency** | CI/CD optimisation with GitHub Actions & CodePipeline |
+| 🔒 **500+ Endpoint Zero-Trust** | Zero-trust programme delivered for Scottish Government |
+
+</div>
 
 ---
 
 ## Certifications
 
-![AWS SAP](https://img.shields.io/badge/AWS_Solutions_Architect_Pro-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS DOP](https://img.shields.io/badge/AWS_DevOps_Engineer_Pro-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS SOA](https://img.shields.io/badge/AWS_SysOps_Admin_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+<div align="center">
 
-![KCNA](https://img.shields.io/badge/KCNA-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![ISC2 CC](https://img.shields.io/badge/ISC²_Certified_in_Cybersecurity-00A651?style=flat-square)
-![ITIL](https://img.shields.io/badge/ITIL_Foundation-6C3483?style=flat-square)
-![Agile](https://img.shields.io/badge/Agile_%26_Scrum_Practitioner-0052CC?style=flat-square)
+![AWS SAP](https://img.shields.io/badge/AWS_Solutions_Architect_Pro-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS DOP](https://img.shields.io/badge/AWS_DevOps_Engineer_Pro-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS SOA](https://img.shields.io/badge/AWS_SysOps_Admin_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![KCNA](https://img.shields.io/badge/KCNA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ISC2 CC](https://img.shields.io/badge/ISC²_CC-00A651?style=for-the-badge)
+![ITIL](https://img.shields.io/badge/ITIL_Foundation-6C3483?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile_%26_Scrum-0052CC?style=for-the-badge)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mide69&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF9900&text_color=c9d1d9&icon_color=FF9900&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mide69&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF9900&text_color=c9d1d9&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mide69&theme=dark&hide_border=true&background=0d1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&sideLabels=c9d1d9&dates=c9d1d9" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mide69&theme=darkhub&no-frame=true&margin-w=8&column=6" />
+</div>
+
+---
+
+## Contribution
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mide69/Mide69/output/github-snake-dark.svg" alt="Contribution Snake" />
+</div>
 
 ---
 
@@ -76,7 +140,7 @@ I'm especially interested in platform engineering and DevSecOps — building the
 ## CI/CD & GitOps
 
 ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![AWS CodePipeline](https://img.shields.io/badge/CODEPIPELINE-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![CodePipeline](https://img.shields.io/badge/CODEPIPELINE-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ARGOCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![GitOps](https://img.shields.io/badge/GITOPS-F05032?style=flat-square&logo=git&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
@@ -145,3 +209,7 @@ I'm especially interested in platform engineering and DevSecOps — building the
 > *"You build it, you run it."*
 >
 > — **Werner Vogels**, CTO, Amazon Web Services
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:FF6B00&height=120&section=footer" width="100%" />
+</div>
